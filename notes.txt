@@ -1,0 +1,2 @@
+1) https://s3.amazonaws.com/scrstorage/294ppc8o1069180.jpg - прикрутить валидацию форм
+2) https://s3.amazonaws.com/scrstorage/x3351gbo104od34n74.jpg - реализовать как img
